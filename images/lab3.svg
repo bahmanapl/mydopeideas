@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="248.216 73.224 500 244.958" width="500" height="244.958" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <style bx:fonts="Aldrich">@import url(https://fonts.googleapis.com/css2?family=Aldrich%3Aital%2Cwght%400%2C400&amp;display=swap);</style>
+  </defs>
+  <rect x="276.451" y="167.523" width="42.196" height="150.195" style="fill-rule: nonzero; paint-order: stroke markers; fill: rgb(105, 226, 49); stroke: rgb(0, 0, 0);" rx="8.067" ry="8.067"/>
+  <ellipse style="fill: rgb(105, 226, 49); stroke: rgb(95, 94, 94);" cx="297.237" cy="171.221" rx="20.788" ry="7.398"/>
+  <path d="M 435.308 277.072 C 435.308 299.863 413.499 318.338 386.596 318.338 C 359.693 318.338 337.884 299.863 337.884 277.072 C 337.884 260.17 349.878 245.642 367.049 239.263 L 367.049 162.582 L 404.281 162.582 L 404.281 238.61 C 422.441 244.606 435.308 259.566 435.308 277.072 Z" style="stroke: rgb(0, 0, 0); fill: rgb(116, 156, 255);"/>
+  <path d="M 541.243 307.033 C 545.912 314.569 543.577 318.337 534.239 318.337 L 456.141 318.337 C 446.803 318.337 444.468 314.569 449.137 307.033 L 476.885 262.248 L 476.885 161.34 L 513.497 161.34 L 513.497 262.251 Z" style="stroke: rgb(0, 0, 0); fill: rgb(255, 85, 85);"/>
+  <ellipse style="stroke: rgb(0, 0, 0); fill: rgb(116, 156, 255);" cx="385.665" cy="163.512" rx="18.616" ry="5.275"/>
+  <rect x="471.92" y="158.239" width="45.299" height="8.067" style="stroke: rgb(0, 0, 0); fill: rgb(185, 10, 10);"/>
+  <text style="fill: rgb(51, 51, 51); font-family: Aldrich; font-size: 31px; font-style: italic; white-space: pre;" x="556.935" y="176.233">biolab.AI</text>
+</svg>
